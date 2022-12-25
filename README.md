@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DantonCorbel
-- 👀 I’m interested in Swift, iOS, X-code, SwiftUI
-- 🌱 I’m currently learning SwiftUI, Python
+- 👀 I’m interested in app making and website development. 
+- 🌱 I’m currently learning Swift, SwiftUI, Unity, C#, HTML, CSS, PHP and have learnt some JavaScript and Python previously. 
 
 
 <!---
